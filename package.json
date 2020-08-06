@@ -15,6 +15,7 @@
     "cors": "^2.8.4",
     "express": "^4.16.3",
     "express-manifest-helpers": "^0.6.0",
+    "lodash-es": "^4.17.15",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-helmet": "^5.2.0",
